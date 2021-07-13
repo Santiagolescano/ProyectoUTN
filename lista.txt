@@ -2,3 +2,7 @@
 frutilla
 mandarina
 lechuga
+
+pan 
+leche
+manteca
